@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @itsfotter-cpp, I'm a student of Engineering in Computer Science in Rome
+- 👋 Hi, I'm @itsfotter-cpp, I graduated in Engineering in Computer Science
 - 👀 I'm interested in mobile and web application
 - 🌱 I'm currently learning Kotlin and Android mobile application
 - 📫 How to reach me: luigi.app.development@gmail.com
