@@ -1,6 +1,7 @@
 - 👋 Hi, I'm @itsfotter-cpp, I graduated in Engineering in Computer Science
+- 💻 I work as a Software Engineer with Java
 - 👀 I'm interested in mobile and web application
-- 🌱 I'm currently learning Kotlin and Android mobile application
+- 🌱 I'm currently learning Angular framework
 - 📫 How to reach me: luigi.app.development@gmail.com
 
 <!---
